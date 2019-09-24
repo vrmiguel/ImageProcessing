@@ -1,3 +1,5 @@
+%% github.com/vrmiguel/ImageProcessing %%
+
 %% Leitura e exibição da imagem original
 close all
 clear all
