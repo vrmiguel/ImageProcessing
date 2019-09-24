@@ -1,3 +1,5 @@
+%% github.com/vrmiguel/ImageProcessing %%
+
 %% Execução de subprogramas
 
 proc_img_1  % Processando a imagem 1
